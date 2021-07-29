@@ -21,6 +21,4 @@ Construir um aplicativo que possibilite o pré-cadastramento de pacientes para a
 - [Servidor](https://vacinas-app-mhanprpxzq-uc.a.run.app/hello-world)
 - [Aplicativo](https://expo.dev/@iltonandrew/vacinas)
 
-Para usar o app:
-
-- Android: Baixar o aplicativo do [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en&gl=US) e escanear o QRCode da página linkada acima.
+Para usar o app, é necessário baixar o aplicativo do Expo da loja mobile e ler o QR Code na página linkada acima.
