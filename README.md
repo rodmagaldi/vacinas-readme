@@ -6,7 +6,13 @@ Construir um aplicativo que possibilite o pré-cadastramento de pacientes para a
 
 ## Links importantes
 
+### Vídeo-pitch
+
+- Link do [youtube](https://www.youtube.com/watch?v=uah8z-GyEWU)
+
 ### Repositórios
+
+Os repositórios de backend e frontend contém as instruções necessárias para rodar cada projeto localmente.
 
 - [Repositório Backend](https://github.com/rodmagaldi/vacinas-server)
 - [Repositório Frontend Mobile](https://github.com/iltonandrew/vacinas-app)
@@ -22,3 +28,8 @@ Construir um aplicativo que possibilite o pré-cadastramento de pacientes para a
 - [Aplicativo](https://expo.dev/@iltonandrew/vacinas)
 
 Para usar o app, é necessário baixar o aplicativo do Expo da loja mobile e ler o QR Code na página linkada acima.
+
+## Dados de teste para o app
+
+Para usar o app, basta colocar dados reais nos campos desejados. Por exemplo, existe uma validação de CPF e CEP. Além disso, colocar uma CEP válido chama automaticamente os valores de estado, cidade, bairro e rua (lembrando que há um cold start neste servidor inicial, esta requisição pode demorar alguns segundos na primeira vez que é feita).
+Após preenchidos os dados, basta entrar na página de sincronização e clicar para enviar os dados colhidos.
